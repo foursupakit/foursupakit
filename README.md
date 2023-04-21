@@ -11,7 +11,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=foursupakit&style=flat-square&color=blue" alt="account counter"/>
   <br>
-  # Hi there 👋
+  <h1>
+    Hi there 👋
+  </h1>
 </div>
 
 <!--
